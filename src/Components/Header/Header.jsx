@@ -24,7 +24,13 @@ function Header() {
     <div>
       <MDBNavbar expand='lg' style={{backgroundColor:'black'}}>
         <MDBContainer fluid>
-          <MDBNavbarBrand href='#'><h3 style={{color:'rgba(241, 76, 76, 0.817)'}}>AROMAL</h3></MDBNavbarBrand>
+          <MDBNavbarBrand href='#'><h3 style={{color:'rgba(241, 76, 76, 0.817)'}}>  
+          <h6>
+
+          Developer
+
+          </h6>
+          </h3></MDBNavbarBrand>
           <MDBNavbarToggler
             type='button'
             data-target='#navbarColor02'

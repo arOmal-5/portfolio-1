@@ -30,3 +30,20 @@
 }.container h2{
     font-size: 60px;
 }
+
+.logos {
+    height: 10rem;
+    width: 100%;
+    overflow-x: scroll;
+    display: flex;
+    gap: 4rem;
+    flex-direction: row;
+    scrollbar-width: none; /* For Firefox */
+    -ms-overflow-style: none;  /* For Internet Explorer and Edge */
+  }
+  
+  .logos::-webkit-scrollbar {
+    display: none;  /* For Chrome, Safari, and Opera */
+  }
+  
+  
