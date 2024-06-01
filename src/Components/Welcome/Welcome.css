@@ -1,0 +1,32 @@
+.main12{
+    
+     width: 100%;
+     text-align: center;
+     background-color: black;
+     display: flex;
+     align-items: center;
+     height: 90vh;
+    
+    
+ }
+
+.container{
+
+    width: 100%;
+    padding: 250px;
+   
+}.btns .btn{
+
+   color: white;
+   border: 1px solid red;
+   border-radius: 10px;
+   margin: 10px;
+}.container h2{
+    font-weight: bolder;
+    color: rgba(255, 255, 255, 0.559);
+    
+}.container h1{
+    font-size: 40px;
+}.container h2{
+    font-size: 60px;
+}
